@@ -1,0 +1,1 @@
+cp corona.sh ~/../usr/bin/corona && chmod +x ~/../usr/bin/corona && corona install
